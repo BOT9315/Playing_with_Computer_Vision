@@ -5,7 +5,6 @@ import cvzone
 from cvzone.HandTrackingModule import HandDetector
 import mediapipe as mp
 import numpy as np
-
 #gaame 1
 from directkeys1 import PressKey, ReleaseKey
 from directkeys1 import enter_pressed
