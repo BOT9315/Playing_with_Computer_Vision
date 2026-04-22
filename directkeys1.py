@@ -3,7 +3,6 @@ import ctypes
 import time
 
 SendInput = ctypes.windll.user32.SendInput
-
 enter_pressed=0x1C
 
 # C struct redefinitions 
